@@ -1,4 +1,4 @@
-import { createBrowserRouter, Link, RouterProvider } from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import AppLayout from './ui/AppLayout';
 import Cart from './features/cart/Cart';
